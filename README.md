@@ -35,7 +35,7 @@ pip install pandas beautifulsoup4 requests
 ### 📁 Files in this Repository
 * **`Movie_Project_Part_1.ipynb`** - The complete Python scraper notebook.
 * **`Master_Movies_Dataset.csv`** - The final consolidated and cleaned dataset.
-* **`Project_Report.pdf`** - The executive summary report.
+* **`Report.pdf`** - The executive summary report.
 
 
 
